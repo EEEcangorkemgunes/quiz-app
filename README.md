@@ -18,4 +18,4 @@ npm run start
 
 **Make Sure you have installed nodejs version 18 or higher before above steps.**
 
-Everything should be ready! Go to [localhost:3000](localhost:3000) and checkout my project!
+Everything should be ready! Go to [localhost:3000](http://localhost:3000) and checkout my project!
